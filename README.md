@@ -4,4 +4,4 @@ We are big fans of the book [Applied Computational Economics and Finance](https:
 ## Solutions to Chapter Exercises
 We'll begin posting code to this repository. For now, details and latest updates see our [Applied Computational Economics and Finance Exercise Solutions in Stata and Mata](https://abg-analytics.com/applied-computational-economics-finance.shtml) main page.
 ### [Chapter 1 exercises](https://abg-analytics.com/applied-computational-economics-finance.shtml#chapter1)
-### [Chapter 2 exercises](https://abg-analytics.com/Solutions-to-Computational-Economics-Exercises-using-Stata-and-Mata-ch2.pdf)
+### [Chapter 2 exercises](https://github.com/ABG-Analytics/CompEcon/blob/master/Solutions-to-Computational-Economics-Exercises-using-Stata-and-Mata-ch2.pdf)
